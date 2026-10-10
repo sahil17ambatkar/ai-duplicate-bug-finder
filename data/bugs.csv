@@ -1,0 +1,11 @@
+id,title,description,component
+BUG-001,Game crashes on Level 3 load,"The game crashes to desktop when the player tries to load Level 3.",Level Loading
+BUG-002,Crash when entering Level 3,"Application closes unexpectedly when entering Level 3 from the main menu.",Level Loading
+BUG-003,Character falls through floor,"The player character falls through the floor near the bridge in Level 2.",Physics
+BUG-004,Player drops through bridge,"Character falls through the bridge surface in Level 2.",Physics
+BUG-005,Audio disappears after pause,"Game audio stops playing after pausing and resuming the game.",Audio
+BUG-006,Sound missing after resume,"No game sound is heard after the player resumes the game from the pause menu.",Audio
+BUG-007,Inventory UI overlaps,"Inventory icons overlap when more than 20 items are displayed.",UI
+BUG-008,Inventory icons cover each other,"Items in the inventory visually overlap when the inventory contains many items.",UI
+BUG-009,Game crashes when opening settings,"The game crashes when the player opens the settings menu.",UI
+BUG-010,Settings menu causes crash,"Application closes when the settings screen is opened.",UI
